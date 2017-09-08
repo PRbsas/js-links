@@ -74,10 +74,11 @@
           "text": "GitHub"
         },
         {
-          "href": "https://github.com/PRbsas",
+          "href": "https://prbsas.now.sh/",
           "text": "PRbsas"
         }
-      ]
+      ],
+      "heading": "js-links"
     }
   ]
 }
