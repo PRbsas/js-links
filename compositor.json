@@ -64,7 +64,7 @@
       "metadata": {
         "source": "github.readme"
       },
-      "html": "\n<p>Curated list of JavaScript resources</p>\n"
+      "html": "<p><img src=\"https://github.com/PRbsas/js-links/blob/master/JavaScript-logo.png\"></p>\n\n<p>Curated list of JavaScript resources</p>\n"
     },
     {
       "component": "footer",
